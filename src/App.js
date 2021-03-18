@@ -2,10 +2,11 @@
 import './assets/css/all.css';
 import './assets/css/style.css';
 
+
 //import components
 import Contacto from './components/Contacto';
 import Equipos from './components/Equipos';
-import Fotos from './components/Fotos';
+import Fotoscopy from './components/Fotoscopy';
 import Header from './components/Header';
 import Home from './components/Home';
 import Menu from './components/Menu';
@@ -36,7 +37,7 @@ function App() {
         <Equipos />
       </div>
       <div className="">
-        <Fotos />
+        <Fotoscopy />
       </div>
       <div className="">
         <Contacto />

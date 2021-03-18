@@ -27,73 +27,73 @@ class Equipos extends Component {
                 </div>
                 <main className="lista-equipos container">
                     <figure className="equipos-foto">
-                        <img src={aea}></img>
+                        <img src={aea} alt=""></img>
                         <figcaption>
                             <p>AEA Ribbon</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={auroraaudio}></img>
+                        <img src={auroraaudio} alt=""></img>
                         <figcaption>
                             <p>Aurora Audio 8</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={mc77}></img>
+                        <img src={mc77} alt=""></img>
                         <figcaption>
                             <p>Purple MC77</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={la2a}></img>
+                        <img src={la2a} alt=""></img>
                         <figcaption>
                             <p>Compresor LA2A</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={aurora16}></img>
+                        <img src={aurora16} alt=""></img>
                         <figcaption>
                             <p>Lynx Aurora 8</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={lio8}></img>
+                        <img src={lio8} alt=""></img>
                         <figcaption>
                             <p>MetricHalo LIO8</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={aea4038}></img>
+                        <img src={aea4038} alt=""></img>
                         <figcaption>
                             <p>Coles 4038</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={um92}></img>
+                        <img src={um92} alt=""></img>
                         <figcaption>
                             <p>Gefell UM92.1S</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={m300}></img>
+                        <img src={m300} alt=""></img>
                         <figcaption>
                             <p>Gefell M300</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={md421}></img>
+                        <img src={md421} alt=""></img>
                         <figcaption>
                             <p>Sennheiser MD421</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={re20}></img>
+                        <img src={re20} alt=""></img>
                         <figcaption>
                             <p>Electro Voice RE20</p>
                         </figcaption>
                     </figure>
                     <figure className="equipos-foto">
-                        <img src={api1}></img>
+                        <img src={api1} alt=""></img>
                         <figcaption>
                             <p>Ecualizador API</p>
                         </figcaption>
