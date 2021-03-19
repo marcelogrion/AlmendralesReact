@@ -26,12 +26,7 @@ class Equipos extends Component {
                     <h2>Equipamiento</h2>
                 </div>
                 <main className="lista-equipos container">
-                    <figure className="equipos-foto">
-                        <img src={aea} alt=""></img>
-                        <figcaption>
-                            <p>AEA Ribbon</p>
-                        </figcaption>
-                    </figure>
+
                     <figure className="equipos-foto">
                         <img src={auroraaudio} alt=""></img>
                         <figcaption>
